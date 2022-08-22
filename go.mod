@@ -4,7 +4,7 @@ require (
 	github.com/dgraph-io/badger v1.6.2
 	github.com/golang/protobuf v1.4.3
 	github.com/ipfs/go-cid v0.0.7
-	github.com/ipfs/go-datastore v0.4.5
+	github.com/ipfs/go-datastore v0.6.0
 	github.com/ipfs/go-ds-badger v0.2.6
 	github.com/ipfs/go-ipfs-blockstore v1.0.1
 	github.com/ipfs/go-ipfs-ds-help v1.0.0
