@@ -15,7 +15,7 @@ require (
 	github.com/libp2p/go-libp2p-pubsub v0.3.6
 	github.com/multiformats/go-multihash v0.0.14
 	github.com/pkg/errors v0.9.1
-	go.uber.org/multierr v1.6.0
+	go.uber.org/multierr v1.9.0
 	google.golang.org/protobuf v1.25.0
 )
 
